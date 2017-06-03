@@ -1,8 +1,4 @@
 
-x = 1
-type_var = type(x)
-
-print(type_var)
-print(type(type_var))
-
-
+print('Hello!')
+for i in range(10):
+    print(i)
