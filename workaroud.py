@@ -1,3 +1,4 @@
+
 varA = 2
 varB = 4
 name = "name"
@@ -18,3 +19,4 @@ try:
     2/0
 except:
     print("No divide by zero")
+    
