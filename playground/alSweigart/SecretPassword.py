@@ -1,5 +1,5 @@
 
-passwordFile = open('secretPasswordFile.txt')
+passwordFile = open('SecretPasswordFile.txt')
 secretPassword = passwordFile.read()
 print('Enter password.')
 typedPassword = input()
